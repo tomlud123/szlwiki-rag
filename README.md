@@ -5,4 +5,5 @@ TODO:
 * avoid unsafe deserialization of vectorstore
 * optimizations
 * manual
+* demo.ipynb/gradio
 * connection to LLM
