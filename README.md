@@ -1,6 +1,6 @@
 # Silesian Wikipedia based RAG
 
-Embeddings and Semantic Search Engine
+Embeddings and Semantic Search Engine. Hobby project exploring vector-based search.
 
 Tech stack:
 * Dataset https://huggingface.co/datasets/ipipan/silesian-wikipedia-clean-20230901
