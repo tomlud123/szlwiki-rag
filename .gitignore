@@ -1,0 +1,23 @@
+# Katalogi i pliki wirtualnego środowiska
+.venv/
+venv/
+env/
+
+# Kompilowane pliki Pythona
+__pycache__/
+*.py[cod]
+
+# Dane lokalne i indeks FAISS
+data/
+
+# Pliki Jupyter Notebook (tymczasowe)
+*.ipynb_checkpoints/
+
+# Pliki tymczasowe edytorów
+*.swp
+*.swo
+*.bak
+
+# Ignoruj PyCharm/IntelliJ
+.idea/
+*.iml

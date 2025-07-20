@@ -1,0 +1,8 @@
+FAISS indexer for Silesian Wikipedia using HuggingFace + LangChain
+
+TODO:
+* config.yaml, include: chunk_size, chunk_overlap, index_name, device cuda/cpu, adapt code
+* avoid unsafe deserialization of vectorstore
+* optimizations
+* manual
+* connection to LLM
