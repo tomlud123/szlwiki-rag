@@ -2,3 +2,5 @@ datasets~=4.0.0
 langchain~=0.3.26
 langchain-community~=0.3.27
 langchain-huggingface~=0.3.0
+torch~=2.7.1+cu128
+gradio~=5.38.0

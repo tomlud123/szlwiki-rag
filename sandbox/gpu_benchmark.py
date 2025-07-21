@@ -2,14 +2,14 @@ import time
 import torch
 from langchain_huggingface import HuggingFaceEmbeddings
 
-# 🔧 Uruchamianie na: CPU
-# ⏱️  Czas: 76.10 sekundy
-#
-# 🔧 Uruchamianie na: CUDA
-# ⏱️  Czas: 7.69 sekundy
-# 🧠 CUDA dostępna: True
-# 📊 Używana karta: NVIDIA GeForce RTX 5070
-# 💾 Zużycie pamięci: 2143.9 MB
+"""🔧 Uruchamianie na: CPU
+⏱️  Czas: 76.10 sekundy
+
+🔧 Uruchamianie na: CUDA
+⏱️  Czas: 7.69 sekundy
+🧠 CUDA dostępna: True
+📊 Używana karta: NVIDIA GeForce RTX 5070
+💾 Zużycie pamięci: 2143.9 MB"""
 
 # losowe dane do embedowania
 N = 10_000
