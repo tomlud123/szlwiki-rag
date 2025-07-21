@@ -2,6 +2,8 @@
 
 Embeddings and Semantic Search Engine. Hobby project exploring vector-based search.
 
+Demo: https://huggingface.co/spaces/tomlud123/szlwiki_semantic_search
+
 Tech stack:
 * Dataset https://huggingface.co/datasets/ipipan/silesian-wikipedia-clean-20230901
 * Embedder https://huggingface.co/intfloat/multilingual-e5-large
